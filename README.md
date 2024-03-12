@@ -7,4 +7,10 @@ Daftar tugas / branch
   6. Tugas-php
   7. Tugas-finalProject
    
-Daftar perintah GiT
+Daftar perintah GIT
+	git branch "nama branch" // membuat branch
+	git checkout "nama branch" // mengganti ke branch yang ingin dipilih
+	git add . memilih file
+	git commit -m "comment" // penjelasan
+	git merge // untuk mengintegrasikan branch ke master
+	git push // mengirim file dari repository local ke remote 
